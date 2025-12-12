@@ -70,7 +70,7 @@ Below each category you will find projects formatted with a consistent template:
 
 - **Technologies:** Python, Pandas, NumPy,  Scikit-learn,Matplotlib, Jupyter Notebook. 
 
-- **Repository:** [stock-prediction](https://github.com/Angie-Sala/stock-prediction) 
+- **Repository:** [stock-prediction](https://github.com/Angie-Sala/Data-Analysis-Portfolio/tree/main/stock-prediction) 
 </details>
 
 ---
